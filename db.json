@@ -1,0 +1,11 @@
+{
+  "users" : [
+    {
+      "id" : "1",
+      "name" : "admin user",
+      "email" : "admin@demoapp.com",
+      "status" : "1",
+      "password" : "demoapp123"
+    }
+  ]
+}
